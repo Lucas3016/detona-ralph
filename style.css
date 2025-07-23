@@ -1,1 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
 
+}
+.img {
+    width: 80px;
+    margin: 20px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+}
+.container .text {
+   margin-top: 20px;
+   margin-left: 100px;
+}
+.container .text input {
+    width: 500px;
+    height: 30px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    border: 2px solid black;
+}
+ .sorce {
+    width: 20px;
+    height: 20px;
+}
+button {
+    height: 36px;
+    margin-top: 20px;
+}
+.container .card {
+   display: flex;
+   justify-content: end;
+   width: 100px;
+   margin-top: 20px;
+}
+.container .card2 {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.container2 div img {
+    width: 170px;
+    height: 100px;
+    margin-left: 1600px;
+    top: 0;
+    margin-bottom: 20px;
+}
+iframe {
+    width: 900px;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    margin-top: 200px;
+    margin-left: 500px;
+}
